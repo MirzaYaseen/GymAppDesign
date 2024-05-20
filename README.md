@@ -1,3 +1,10 @@
+# App_View
+
+![image](https://github.com/MirzaYaseen/GymAppDesign/assets/85738256/8097a6d6-750f-4a8f-85da-28097c2aa27a)
+
+![image](https://github.com/MirzaYaseen/GymAppDesign/assets/85738256/bbf180f1-a7dc-453c-bc1e-7529d61a0f46)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
